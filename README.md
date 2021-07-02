@@ -1,5 +1,3 @@
-# An alternative to classical American healthcare
-
 ## Introduction
 
 For context, John Oliver recent did a piece on Health Care Share Ministries (HCSM).
